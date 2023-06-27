@@ -79,7 +79,7 @@
 
     </nav>
     <div class="container">
-      Customer is successfully Updated
+      Customer profile is successfully Updated
     </div>
     <div class="container">
         <div class="row">
